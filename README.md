@@ -4,7 +4,7 @@
   
 To run the defense method, the following steps are needed:
 1. `Install the OpenDSS` from  [Download Link](https://sourceforge.net/projects/electricdss/#Link) on the Windows machine as OpenDSS is not mac compatible.
-2. `Download and save` the system models from the "System Models" folder to the local drive. 
+2. `Download and save` the system models located at `Dynamic_attack_sub_mapping_new_oc` repository in the "System Models" folder to the local drive. 
 3. `Install` Spyder, PyCharm or any other Python IDE.
 4. `Install` all the necessary inbuilt python packages using `pip install package name`. Example `pip install numpy`.
 5. `Open` the `dynamic_defense_subless_v1_new_oc.py` method and set the paths for the `filepath, comp_filename, load_file_name` as per the 
